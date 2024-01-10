@@ -23,6 +23,10 @@ status-website:
   name: Upptime
   introTitle: "**Billflix Uptime Status**"
   introMessage: This is a monitoring page which uses **real-time** data to check if Billflix and the associated services are online. 
-
+  navbar:
+    - title: Requests
+      href: https://request.billflix.media
+    - title: Help
+      href: https://help.billflix.media
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
