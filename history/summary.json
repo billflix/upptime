@@ -22,19 +22,19 @@
     "url": "https://request.billflix.media",
     "icon": "https://icons.duckduckgo.com/ip3/request.billflix.media.ico",
     "slug": "request",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 380,
-    "timeWeek": 446,
-    "timeMonth": 444,
-    "timeYear": 444,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 480,
+    "timeDay": 858,
+    "timeWeek": 558,
+    "timeMonth": 480,
+    "timeYear": 480,
     "dailyMinutesDown": {
-      "2024-01-28": 0
+      "2024-01-28": 9
     }
   },
   {
