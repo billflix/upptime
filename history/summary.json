@@ -22,7 +22,7 @@
     "url": "https://request.billflix.media",
     "icon": "https://icons.duckduckgo.com/ip3/request.billflix.media.ico",
     "slug": "request",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 446,
     "timeMonth": 444,
     "timeYear": 444,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-28": 0
+    }
   },
   {
     "name": "Monitor",
