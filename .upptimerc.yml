@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Plex
-    tcp: 192.168.1.200:32400
+    tcp: plex.billflix.media
   - name: Request
     url: https://request.billflix.media
   - name: Monitor
