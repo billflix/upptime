@@ -1,7 +1,7 @@
 url: https://monitor.billflix.media
-status: down
-code: 522
-responseTime: 19883
-lastUpdated: 2025-08-26T17:39:04.229Z
+status: up
+code: 200
+responseTime: 1808
+lastUpdated: 2025-08-26T18:33:30.559Z
 startTime: 2024-01-09T17:52:56.442Z
 generator: Upptime <https://github.com/upptime/upptime>
