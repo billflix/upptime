@@ -1,7 +1,7 @@
 url: https://bitwarden.billflix.media
-status: up
-code: 200
-responseTime: 338
-lastUpdated: 2025-10-25T23:08:12.568Z
+status: down
+code: 523
+responseTime: 3270
+lastUpdated: 2025-10-26T05:17:40.140Z
 startTime: 2024-01-09T18:01:19.667Z
 generator: Upptime <https://github.com/upptime/upptime>
