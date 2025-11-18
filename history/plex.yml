@@ -1,7 +1,7 @@
 url: https://plex.billflix.media
-status: down
-code: 500
-responseTime: 196
-lastUpdated: 2025-11-18T11:49:16.010Z
+status: up
+code: 200
+responseTime: 301
+lastUpdated: 2025-11-18T13:36:21.342Z
 startTime: 2024-01-09T17:52:54.985Z
 generator: Upptime <https://github.com/upptime/upptime>
