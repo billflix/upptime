@@ -1,7 +1,7 @@
 url: https://request.billflix.media
-status: up
-code: 200
-responseTime: 648
-lastUpdated: 2025-11-17T23:08:58.154Z
+status: down
+code: 500
+responseTime: 292
+lastUpdated: 2025-11-18T11:59:41.267Z
 startTime: 2024-01-09T17:52:55.598Z
 generator: Upptime <https://github.com/upptime/upptime>
