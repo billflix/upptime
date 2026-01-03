@@ -9,11 +9,17 @@ sites:
     url: https://request.billflix.media
   - name: Monitor
     url: https://monitor.billflix.media
-  - name: Help
-    url: https://help.billflix.media
+  - name: Audiobooks
+    url: https://audiobooks.billflix.media
   - name: Bitwarden
     url: https://bitwarden.billflix.media
-
+  - name: Birdnet
+    url: https://birdnet.billflix.media
+  - name: Storage
+    url: https://storage.billflix.media
+  - name: Games
+    url: https://games.billflix.media
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -26,7 +32,5 @@ status-website:
   navbar:
     - title: Requests
       href: https://request.billflix.media
-    - title: Help
-      href: https://help.billflix.media
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
