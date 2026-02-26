@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.billflix.media.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "99.00%",
+    "uptime": "99.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "98.83%",
     "time": 959,
-    "timeDay": 436,
-    "timeWeek": 376,
-    "timeMonth": 988,
+    "timeDay": 328,
+    "timeWeek": 377,
+    "timeMonth": 987,
     "timeYear": 1227,
     "dailyMinutesDown": {
       "2026-02-15": 76,
@@ -37,8 +37,7 @@
       "2025-08-15": 110,
       "2025-04-03": 73,
       "2025-03-25": 49,
-      "2025-02-27": 53,
-      "2025-02-26": 30
+      "2025-02-27": 53
     }
   },
   {
@@ -53,10 +52,10 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "98.79%",
     "time": 1080,
-    "timeDay": 612,
-    "timeWeek": 520,
-    "timeMonth": 700,
-    "timeYear": 1324,
+    "timeDay": 478,
+    "timeWeek": 478,
+    "timeMonth": 694,
+    "timeYear": 1323,
     "dailyMinutesDown": {
       "2026-02-15": 103,
       "2026-01-02": 227,
@@ -80,8 +79,7 @@
       "2025-08-15": 110,
       "2025-04-03": 73,
       "2025-03-25": 49,
-      "2025-02-27": 53,
-      "2025-02-26": 29
+      "2025-02-27": 53
     }
   },
   {
@@ -96,9 +94,9 @@
     "uptimeMonth": "99.65%",
     "uptimeYear": "98.50%",
     "time": 992,
-    "timeDay": 592,
-    "timeWeek": 489,
-    "timeMonth": 600,
+    "timeDay": 476,
+    "timeWeek": 495,
+    "timeMonth": 595,
     "timeYear": 1210,
     "dailyMinutesDown": {
       "2026-02-15": 103,
@@ -125,8 +123,7 @@
       "2025-08-15": 109,
       "2025-04-03": 73,
       "2025-03-25": 49,
-      "2025-02-27": 54,
-      "2025-02-26": 29
+      "2025-02-27": 54
     }
   },
   {
@@ -141,9 +138,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.87%",
     "time": 402,
-    "timeDay": 310,
-    "timeWeek": 370,
-    "timeMonth": 410,
+    "timeDay": 446,
+    "timeWeek": 362,
+    "timeMonth": 403,
     "timeYear": 402,
     "dailyMinutesDown": {
       "2026-02-15": 103
@@ -155,15 +152,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.billflix.media.ico",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "99.05%",
+    "uptime": "99.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "98.85%",
-    "time": 807,
-    "timeDay": 750,
-    "timeWeek": 363,
-    "timeMonth": 403,
+    "time": 806,
+    "timeDay": 422,
+    "timeWeek": 351,
+    "timeMonth": 406,
     "timeYear": 1029,
     "dailyMinutesDown": {
       "2026-02-15": 76,
@@ -185,8 +182,7 @@
       "2025-08-15": 137,
       "2025-04-03": 72,
       "2025-03-25": 49,
-      "2025-02-27": 54,
-      "2025-02-26": 29
+      "2025-02-27": 54
     }
   },
   {
@@ -200,11 +196,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 615,
-    "timeDay": 936,
-    "timeWeek": 711,
-    "timeMonth": 669,
-    "timeYear": 615,
+    "time": 613,
+    "timeDay": 485,
+    "timeWeek": 662,
+    "timeMonth": 665,
+    "timeYear": 613,
     "dailyMinutesDown": {}
   },
   {
@@ -213,16 +209,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/storage.billflix.media.ico",
     "slug": "storage",
     "status": "up",
-    "uptime": "96.14%",
+    "uptime": "96.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "96.14%",
-    "time": 448,
-    "timeDay": 486,
-    "timeWeek": 443,
-    "timeMonth": 417,
-    "timeYear": 448,
+    "uptimeYear": "96.22%",
+    "time": 447,
+    "timeDay": 416,
+    "timeWeek": 396,
+    "timeMonth": 421,
+    "timeYear": 447,
     "dailyMinutesDown": {
       "2026-02-15": 102,
       "2026-01-18": 197,
@@ -241,11 +237,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 333,
-    "timeDay": 883,
-    "timeWeek": 443,
-    "timeMonth": 344,
-    "timeYear": 333,
+    "time": 332,
+    "timeDay": 269,
+    "timeWeek": 446,
+    "timeMonth": 343,
+    "timeYear": 332,
     "dailyMinutesDown": {}
   }
 ]
