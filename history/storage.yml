@@ -1,7 +1,7 @@
 url: https://storage.billflix.media
-status: up
-code: 200
-responseTime: 416
-lastUpdated: 2026-04-14T23:33:20.004Z
+status: down
+code: 502
+responseTime: 18489
+lastUpdated: 2026-04-15T02:25:13.715Z
 startTime: 2026-01-03T05:27:14.648Z
 generator: Upptime <https://github.com/upptime/upptime>
